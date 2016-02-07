@@ -4,7 +4,7 @@
   <title><![CDATA[Silly Muddle Was Here]]></title>
   <link href="http://sillymuddle.github.io/atom.xml" rel="self"/>
   <link href="http://sillymuddle.github.io/"/>
-  <updated>2016-02-07T19:29:36+11:00</updated>
+  <updated>2016-02-07T19:34:00+11:00</updated>
   <id>http://sillymuddle.github.io/</id>
   <author>
     <name><![CDATA[Silly]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://sillymuddle.github.io/blog/2016/02/07/hello-world/"/>
+    <updated>2016-02-07T19:32:21+11:00</updated>
+    <id>http://sillymuddle.github.io/blog/2016/02/07/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello out there!</p>
+]]></content>
+  </entry>
   
 </feed>
