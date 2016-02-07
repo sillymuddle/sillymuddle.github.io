@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Silly Muddle Was Here]]></title>
+  <title><![CDATA[Silly Muddle]]></title>
   <link href="http://sillymuddle.github.io/atom.xml" rel="self"/>
   <link href="http://sillymuddle.github.io/"/>
-  <updated>2016-02-07T19:34:00+11:00</updated>
+  <updated>2016-02-07T22:25:22+11:00</updated>
   <id>http://sillymuddle.github.io/</id>
   <author>
     <name><![CDATA[Silly]]></name>
@@ -19,6 +19,13 @@
     <updated>2016-02-07T19:32:21+11:00</updated>
     <id>http://sillymuddle.github.io/blog/2016/02/07/hello-world</id>
     <content type="html"><![CDATA[<p>Hello out there!</p>
+
+<p><img src="http://www.smh.com.au/content/dam/images/g/m/l/k/l/c/image.imgtype.articleLeadwide.620x349.png/1454570752428.png" alt="A picture" /></p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/sillymuddle">@sillymuddle</a> this is why we should be talking. Never seriously argued for infinite regress never argued things need a cause. <a href="https://twitter.com/Playit4wardApp">@playit4wardApp</a></p>&mdash; Lucas - damndad (@thedamndad) <a href="https://twitter.com/thedamndad/status/695105471200362496">February 4, 2016</a></blockquote>
+
+
+<p> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 ]]></content>
   </entry>
   
