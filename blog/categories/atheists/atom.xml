@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Silly Muddle]]></title>
-  <link href="http://sillymuddle.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: atheists | Silly Muddle]]></title>
+  <link href="http://sillymuddle.github.io/blog/categories/atheists/atom.xml" rel="self"/>
   <link href="http://sillymuddle.github.io/"/>
   <updated>2016-02-08T04:29:05+11:00</updated>
   <id>http://sillymuddle.github.io/</id>
