@@ -417,6 +417,8 @@ img {
 border:0;
 -ms-interpolation-mode:bicubic;
 height:auto;
+margin: 0 auto;
+display: block;
 }
 
 svg:not(:root) {
